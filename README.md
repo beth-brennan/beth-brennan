@@ -1,3 +1,5 @@
+![LinkedIn Header](https://user-images.githubusercontent.com/beth-brennan/beth-brennan/main/.github/images/linkedin-banner.png)
+
 ### Hi there 👋
 
 <!--
