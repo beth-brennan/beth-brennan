@@ -1,12 +1,12 @@
 ![LinkedIn Header](https://user-images.githubusercontent.com/80719546/183465650-b6d13c9c-4237-4f02-b4c8-7627225c0081.png)
 
-### Hi there 👋
+## Hi there 👋
 
 My name is Beth Brennan (she/her). I am a full-stack software engineer based in New York City.
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bethbrennan2)!
 
-### Tech Stack
+## Tech Stack
 
 <div>
  <code><img class="js" height="40" src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png"></code>
@@ -25,7 +25,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bethbrennan2)!
  <code><img class="firebase" height="40" src="https://user-images.githubusercontent.com/48143100/163075672-8c1ec58f-70c6-4bc0-81e6-f5f5c79cc3e5.png"></code>
 </div>
 
-### Top Repos
+## Top Repos
 
 ### bookbound
 
