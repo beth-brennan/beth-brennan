@@ -57,6 +57,14 @@ Tech Stack: React Native, Expo, React Native Paper, Redux, Express, Sequelize, P
 
 [Video Walkthrough](https://youtu.be/BZZgwE6b5gk)
 
+### Calorie Remover
+
+A Firefox extension that hides calorie labels on the British food delivery website Deliveroo.
+
+Tech Stack: JavaScript (DOM Manipulation)
+
+[Github Repo](https://github.com/beth-brennan/calorie-remover)
+
 <!--
 **beth-brennan/beth-brennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
