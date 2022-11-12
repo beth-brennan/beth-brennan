@@ -39,23 +39,13 @@ Tech Stack: React Native, Expo, FireBase, Google Books API, TensorFlow, Python, 
 
 ![bookbound gif](https://user-images.githubusercontent.com/79483567/180309104-aaef7e78-f930-473c-a7cf-e5abda82a8b5.gif)
 
-### Practice Wordle _(in progress)_
+### Broadway for Broke People
 
-A web-based clone of the popular word game Wordle, which uses the possible guess and answer lists from the official game to create a practice version that can be played more than once per day.
+A mobile app that compiles inexpensive Broadway ticket options with a user-friendly interface that allows users to to scroll through all Broadway shows, view all inexpensive ticket options for a single show, and mark certain shows as favorites. Originally created as a four-day hackathon project for the Grace Hopper Program.
 
-Tech Stack: React, CSS5
-
-[Github Repo](https://github.com/beth-brennan/practice-wordle)
-
-### Broadway for Broke People _(in progress)_
-
-A mobile app that compiles inexpensive Broadway ticket options with a user-friendly interface that allows users to to scroll through all Broadway shows, view all inexpensive ticket options for a single show, and mark certain shows as favorites. Created as a four-day hackathon project for the Grace Hopper Program.
-
-Tech Stack: React Native, Expo, React Native Paper, Redux, Express, Sequelize, PostgreSQL
+Tech Stack: React Native, Expo, React Native Paper, Redux, AWS Amplify
 
 [Github Repo](https://github.com/beth-brennan/Broke-Broadway)
-
-[Video Walkthrough](https://youtu.be/BZZgwE6b5gk)
 
 ### Calorie Remover
 
@@ -64,6 +54,14 @@ A Firefox extension that hides calorie labels on the British food delivery websi
 Tech Stack: JavaScript (DOM Manipulation)
 
 [Github Repo](https://github.com/beth-brennan/calorie-remover)
+
+### Practice Wordle _(in progress)_
+
+A web-based clone of the popular word game Wordle, which uses the possible guess and answer lists from the official game to create a practice version that can be played more than once per day.
+
+Tech Stack: React, CSS
+
+[Github Repo](https://github.com/beth-brennan/practice-wordle)
 
 <!--
 **beth-brennan/beth-brennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
