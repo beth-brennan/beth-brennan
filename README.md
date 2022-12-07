@@ -47,6 +47,32 @@ Tech Stack: React Native, Expo, React Native Paper, Redux, AWS Amplify
 
 [Github Repo](https://github.com/beth-brennan/Broke-Broadway)
 
+<table>
+  <tr>
+    <th style="text-align: center">All Shows</th>
+    <th style="text-align: center">Single Show</th>
+    <th style="text-align: center">Favorites</th>
+  </tr>
+  <tr>
+    <td><code><img class="allshows" height="500" src="https://user-images.githubusercontent.com/80719546/206312019-5d9d08e7-ce79-4f98-b606-6c8a0e961dab.png"></code></td>
+    <td><code><img class="singleshow" height="500" src="https://user-images.githubusercontent.com/80719546/206312954-9bd32530-ac1e-4fd9-8de5-c33bfd0e741a.png"></code></td>
+    <td><code><img class="favorites" height="500" src="https://user-images.githubusercontent.com/80719546/206313011-0017be2e-36c4-4f63-8424-c1daff717bbe.png"></code></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="text-align: center">FAQ - View 1</th>
+    <th style="text-align: center">FAQ - View 2</th>
+    <th style="text-align: center">Login</th>
+  </tr>
+  <tr>
+    <td><code><img class="faq-closed" height="500" src="https://user-images.githubusercontent.com/80719546/206313065-c377f17e-187a-47c6-8469-48c935bfd8b2.png"></code></td>
+    <td><code><img class="faq-open" height="500" src="https://user-images.githubusercontent.com/80719546/206313152-a3488778-1f5d-4845-a8e8-06ffd32d89b1.png"></code></td>
+    <td><code><img class="login" height="500" src="https://user-images.githubusercontent.com/80719546/206315709-e6cd6705-9d78-433b-bcc6-658a2c8fec41.png"></code></td>
+  </tr>
+</table>
+
 ### Calorie Remover
 
 A Firefox extension that hides calorie labels on the British food delivery website Deliveroo.
