@@ -39,56 +39,6 @@ Tech Stack: React Native, Expo, FireBase, Google Books API, TensorFlow, Python, 
 
 ![bookbound gif](https://user-images.githubusercontent.com/79483567/180309104-aaef7e78-f930-473c-a7cf-e5abda82a8b5.gif)
 
-### Broadway for Broke People
-
-A mobile app that compiles inexpensive Broadway ticket options with a user-friendly interface that allows users to to scroll through all Broadway shows, view all inexpensive ticket options for a single show, and mark certain shows as favorites. Originally created as a four-day hackathon project for the Grace Hopper Program.
-
-Tech Stack: React Native, Expo, React Native Paper, Redux, AWS Amplify
-
-[Github Repo](https://github.com/beth-brennan/Broke-Broadway)
-
-<table>
-  <tr>
-    <th style="text-align: center">All Shows</th>
-    <th style="text-align: center">Single Show</th>
-    <th style="text-align: center">Favorites</th>
-  </tr>
-  <tr>
-    <td><code><img class="allshows" height="500" src="https://user-images.githubusercontent.com/80719546/206312019-5d9d08e7-ce79-4f98-b606-6c8a0e961dab.png"></code></td>
-    <td><code><img class="singleshow" height="500" src="https://user-images.githubusercontent.com/80719546/206312954-9bd32530-ac1e-4fd9-8de5-c33bfd0e741a.png"></code></td>
-    <td><code><img class="favorites" height="500" src="https://user-images.githubusercontent.com/80719546/206313011-0017be2e-36c4-4f63-8424-c1daff717bbe.png"></code></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th style="text-align: center">FAQ - View 1</th>
-    <th style="text-align: center">FAQ - View 2</th>
-    <th style="text-align: center">Login</th>
-  </tr>
-  <tr>
-    <td><code><img class="faq-closed" height="500" src="https://user-images.githubusercontent.com/80719546/206313065-c377f17e-187a-47c6-8469-48c935bfd8b2.png"></code></td>
-    <td><code><img class="faq-open" height="500" src="https://user-images.githubusercontent.com/80719546/206313152-a3488778-1f5d-4845-a8e8-06ffd32d89b1.png"></code></td>
-    <td><code><img class="login" height="500" src="https://user-images.githubusercontent.com/80719546/206315709-e6cd6705-9d78-433b-bcc6-658a2c8fec41.png"></code></td>
-  </tr>
-</table>
-
-### Calorie Remover
-
-A Firefox extension that hides calorie labels on the British food delivery website Deliveroo.
-
-Tech Stack: JavaScript (DOM Manipulation)
-
-[Github Repo](https://github.com/beth-brennan/calorie-remover)
-
-### Practice Wordle _(in progress)_
-
-A web-based clone of the popular word game Wordle, which uses the possible guess and answer lists from the official game to create a practice version that can be played more than once per day.
-
-Tech Stack: React, CSS
-
-[Github Repo](https://github.com/beth-brennan/practice-wordle)
-
 <!--
 **beth-brennan/beth-brennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
